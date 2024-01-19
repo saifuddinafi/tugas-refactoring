@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="col">
           <div className="footer-heading">
             <h3>Questions, Comments, Concerns?</h3>
-            <p>We’d love to <font color="#E73587">hear</font> from you!</p>
+            <p>We’d love to hear from you!</p>
           </div>
         </div>
         <div className="col">
